@@ -1,0 +1,10 @@
+code,from,to,area_ha
+11,Vegetation,Vegetation,17396.73
+33,Bare ground / mine surface,Bare ground / mine surface,6132.17
+31,Bare ground / mine surface,Vegetation,1322.46
+22,Water,Water,1097.94
+13,Vegetation,Bare ground / mine surface,197.98000000000002
+12,Vegetation,Water,189.69
+21,Water,Vegetation,67.99
+23,Water,Bare ground / mine surface,31.240000000000002
+32,Bare ground / mine surface,Water,20.92

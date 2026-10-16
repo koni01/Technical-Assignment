@@ -1,0 +1,7 @@
+code,from,to,area_ha,transition
+31,Bare ground / mine surface,Vegetation,1322.46,Bare ground / mine surface → Vegetation
+13,Vegetation,Bare ground / mine surface,197.98000000000002,Vegetation → Bare ground / mine surface
+12,Vegetation,Water,189.69,Vegetation → Water
+21,Water,Vegetation,67.99,Water → Vegetation
+23,Water,Bare ground / mine surface,31.240000000000002,Water → Bare ground / mine surface
+32,Bare ground / mine surface,Water,20.92,Bare ground / mine surface → Water

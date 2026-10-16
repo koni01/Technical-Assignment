@@ -1,0 +1,7 @@
+class_id,class,date,pixels,area_ha
+1,Vegetation,2023-08-12,1778440,17784.4
+1,Vegetation,2023-09-02,1878718,18787.18
+2,Water,2023-08-12,119717,1197.17
+2,Water,2023-09-02,130855,1308.55
+3,Bare ground / mine surface,2023-08-12,747555,7475.55
+3,Bare ground / mine surface,2023-09-02,636139,6361.39
